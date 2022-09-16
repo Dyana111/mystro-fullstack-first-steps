@@ -4,11 +4,10 @@ instructions:
             new project                     --->    git init 
             track changes                   --->    git add file_name
             save backup                     --->    git commit -m "massage like what have
-            we done in this version"
-            see history                     --->    git log
+                we done in this version"
+            see history                     --->    git log   "to see all versions"
             see any changes                 --->    git status
-            to connect git und github       --->    git config
-            upload changes to github        --->    git push
+            upload changes to github        --->    git push  "upload to cloud"
             get changes from github         --->    git pull
 
         
@@ -22,5 +21,11 @@ this word mean the last version we have saved
 
 --------------------------
 
-trying to save init
+to connect the git with the gibthub(cloud) ---> 
+                git config --global user.name "Dyana111"
+                git config --global user.email diana.raed92@gmail.com
+
+
+
+--------------------------
 
