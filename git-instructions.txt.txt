@@ -1,0 +1,26 @@
+instructions:
+
+
+            new project                     --->    git init 
+            track changes                   --->    git add file_name
+            save backup                     --->    git commit -m "massage like what have
+            we done in this version"
+            see history                     --->    git log
+            see any changes                 --->    git status
+            to connect git und github       --->    git config
+            upload changes to github        --->    git push
+            get changes from github         --->    git pull
+
+        
+
+
+--------------------------
+
+
+when we apply "git log" we may see the word "head" 
+this word mean the last version we have saved
+
+--------------------------
+
+trying to save init
+
