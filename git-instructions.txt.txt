@@ -28,4 +28,9 @@ to connect the git with the gibthub(cloud) --->
 
 
 --------------------------
+--------------------------
+
+to save the changes on git:
+        first "git add ." for the project or "git add filename" for a file_name
+
 
