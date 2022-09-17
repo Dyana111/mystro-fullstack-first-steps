@@ -9,8 +9,11 @@ instructions:
             see any changes                 --->    git status
             upload changes to github        --->    git push  "upload to cloud"
             get changes from github         --->    git pull
-
-        
+            to move between branches        --->    git checkout branchName (if we put 
+                                                        "-b branchName" git will create a
+                                                             branch under this name in case there was no)
+            to find out in which branch
+                we work now                 --->    git branch
 
 
 --------------------------
